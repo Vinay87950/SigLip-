@@ -1,0 +1,9 @@
+torch
+torchvision
+datasets
+transformers
+matplotlib
+numpy
+Pillow
+tqdm
+lion-pytorch
